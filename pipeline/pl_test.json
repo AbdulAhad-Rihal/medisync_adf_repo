@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Copy data1",
+				"description": "This change is to test CI/CD using github",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
